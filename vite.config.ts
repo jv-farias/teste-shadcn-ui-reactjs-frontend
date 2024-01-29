@@ -7,7 +7,7 @@ export default defineConfig({
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
-      "base": "https://github.com/jv-farias/teste-shadcn-ui-reactjs-frontend",
+      "base": "/teste-shadcn-ui-reactjs-frontend",
     },
   },
 })
